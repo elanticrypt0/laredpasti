@@ -8,6 +8,8 @@ https://github.com/Y000o/Nmap
 
 2. Varios de OSTIN
 
+    -> Mirar osint.md
+
 
 
 
