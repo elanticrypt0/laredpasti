@@ -1,8 +1,8 @@
 # OSINT
 
 0. Awesome OSINT (eng)
+    
     https://github.com/jivoi/awesome-osint
-
     // Muchas fuentes de herramientas, técnicas y más para OSINT
 
 1. cURL for OSINT (eng)

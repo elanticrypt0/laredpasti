@@ -12,6 +12,11 @@ Repositorio de tutoriales y cositas piolas de ciberseguridad y hacking.
 
     https://github.com/elanticrypt0/laredpasti/blob/main/osint.md
 
+3. Sherlock
+
+    https://github.com/sherlock-project/sherlock
+    // Herramienta para buscar redes sociales de un mismo nick
+
 
 
 
